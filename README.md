@@ -16,11 +16,10 @@ Copy this extension to your dreamweaver folder:
 
 ## OR
 
-Open Brackets and click Help > Show Extensions Folder
-Clone the extension into the user subdirectory:
+Clone the extension into the %appdata%\Adobe\Dreamweaver CC 2019\en_US\Configuration\Brackets\extensions\user directory.
 
-    git clone git://github.com/jsonjuri/dreamweaver-highlight-trailing-spaces.git in %appdata%\Adobe\Dreamweaver CC 2019\en_US\Configuration\Brackets\extensions\user   
-
+    git clone git://github.com/jsonjuri/dreamweaver-highlight-trailing-spaces.git 
+    
 ## License
 
 The MIT License (MIT)
