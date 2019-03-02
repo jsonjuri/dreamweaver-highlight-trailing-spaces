@@ -1,9 +1,7 @@
-brackets-trailingspaces
+dreamweaver-highlight-trailing-spaces
 =======================
 
-[Adobe Brackets IDE](http://brackets.io/) extension. Which visualizes trailing whitespaces.
-
-Adds an entry called "Show Trailing Whitespace" to the View menu, the shortcut is Command-Shift-. (or Ctrl-Shift-. on Windows). The state is remembered next time you start Brackets.
+[Adobe Dreamweaver CC IDE] dreamweaver / brackets extension. Which visualizes trailing whitespaces.
 
 This extension adds the CSS class `<span class="cm-trailingspace"></span>` to stretches of whitespace at the end of lines. Based on edit/trailingspace CodeMirror addon.
 
@@ -11,18 +9,17 @@ The styles are defined in `style.css`.
 
 Whitespace in inline editors is visualized as well.
 
-
 ## Install
 
-Open Brackets and click File > Extensions Manager > in search box enter the `brackets-trailingspaces`
+Copy this extension to your dreamweaver folder:
+%appdata%\Adobe\Dreamweaver CC 2019\en_US\Configuration\Brackets\extensions\user
 
 ## OR
 
 Open Brackets and click Help > Show Extensions Folder
 Clone the extension into the user subdirectory:
 
-    git clone git://github.com/scientech-com-ua/brackets-trailingspaces.git user/ShowTrailingWhitespace
-
+    git clone git://github.com/jsonjuri/dreamweaver-highlight-trailing-spaces.git in %appdata%\Adobe\Dreamweaver CC 2019\en_US\Configuration\Brackets\extensions\user   
 
 ## License
 
