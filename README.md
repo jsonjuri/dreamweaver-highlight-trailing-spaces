@@ -1,4 +1,4 @@
-dreamweaver-highlight-trailing-spaces
+Dreamweaver CC - Highlight Trailing Spaces Extension
 =======================
 
 [Adobe Dreamweaver CC IDE] dreamweaver / brackets extension. Which visualizes trailing whitespaces.
